@@ -2,7 +2,7 @@
 
 Most labs still calculate ΔΔCt in Excel, where one wrong cell changes the result, and few check plasma samples for hemolysis before trusting a miRNA result. This web app takes raw Ct values, or the export file straight from your instrument, and returns quality checks, fold changes, statistics, a publication-ready figure and draft methods and results text in about a minute, without coding.
 
-**Live app:** https://qpcr-analyzer.streamlit.app
+**Live app:** https://mirna-qpcr-analyzer.streamlit.app
 
 ![Example figure](docs/example_figure.png)
 
