@@ -26,7 +26,7 @@ APP_NAME = "qPCR Fold-Change Analyzer"
 AUTHOR = "Tooba Mujtaba"
 CONTACT_URL = "https://www.linkedin.com/in/tooba-mujtabaa247ba190"
 CONTACT_LABEL = "Message me on LinkedIn"
-GITHUB_URL = ""  # e.g. "https://github.com/your-username/qpcr-analyzer"
+GITHUB_URL = "https://github.com/ToobaAwais/qpcr-analyzer"
 
 EXAMPLES = {
     "Example: tissue miRNA, 3 groups": "data/example_mirna_qpcr.csv",
