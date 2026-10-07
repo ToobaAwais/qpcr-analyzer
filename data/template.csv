@@ -1,0 +1,7 @@
+Sample,Group,Target,Ct
+S1,Control,miR-21-5p,24.1
+S1,Control,miR-21-5p,24.18
+S1,Control,RNU48,25.02
+S1,Control,RNU48,24.95
+S2,Treated,miR-21-5p,22.31
+S2,Treated,RNU48,25.1

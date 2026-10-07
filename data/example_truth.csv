@@ -1,0 +1,13 @@
+Target,Group,True log2 FC
+miR-21-5p,Normal,0.0
+miR-21-5p,Cirrhosis,0.7
+miR-21-5p,HCC,2.0
+miR-122-5p,Normal,0.0
+miR-122-5p,Cirrhosis,-0.8
+miR-122-5p,HCC,-2.0
+miR-221-3p,Normal,0.0
+miR-221-3p,Cirrhosis,0.3
+miR-221-3p,HCC,1.5
+miR-199a-3p,Normal,0.0
+miR-199a-3p,Cirrhosis,-0.2
+miR-199a-3p,HCC,-1.3
