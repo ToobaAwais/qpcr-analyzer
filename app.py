@@ -24,8 +24,8 @@ import plots
 # ---------------------------------------------------------------------------
 APP_NAME = "qPCR Fold-Change Analyzer"
 AUTHOR = "Tooba Mujtaba"
-CONTACT_URL = "https://www.linkedin.com/in/tooba-mujtabaa247ba190"
-CONTACT_LABEL = "Message me on LinkedIn"
+CONTACT_URL = "https://www.linkedin.com/company/115777229/"
+CONTACT_LABEL = "NovaGen Bioinformatics on LinkedIn"
 GITHUB_URL = "https://github.com/ToobaAwais/qpcr-analyzer"
 
 EXAMPLES = {
