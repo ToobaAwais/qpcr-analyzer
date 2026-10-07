@@ -90,6 +90,6 @@ tests/test_core.py     Automated tests
 ## Author
 
 **Tooba Mujtaba**, bioinformatician (MS/MPhil Bioinformatics), miRNA biomarker research.
-For custom qPCR, miRNA or omics analysis, or a private analysis app for your lab: [LinkedIn](https://www.linkedin.com/company/115777229/)
+For custom qPCR, miRNA or omics analysis, or a private analysis app for your lab: [LinkedIn](https://www.linkedin.com/company/novagenbioinformatics-company/)
 
 MIT License.
